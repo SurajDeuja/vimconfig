@@ -1,2 +1,2 @@
 # vimconfig
-Configuration for my vim.
+Configuration for http://vim.spf13.com/.
